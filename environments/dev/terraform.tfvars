@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="dbk-arch0-global-lab"
